@@ -5,7 +5,7 @@ Madeleine Oman \
 PhD University of Toronto - Expected fall 2025 \
 madeleine.oman@mail.utoronto.ca\
 @MadeleineOman\
-[CV](Madeleine_Oman_CV.pdf) 
+[CV](Madeleine_Oman_CV_mothership.pdf) 
 
 Human geneticist passionate about improving health outcomes, science communication and answering cool questions with big data and machine learning techniques. I work with Dr Rob Ness, check out the [lab website](https://ness.bio/). 
 <br />
@@ -41,8 +41,8 @@ Urban pollution may increase mutation rates in city-dwelling organisms, potentia
 <br />
 
 
-### [Conference Presentations](Talks.md) 
-### [Awards](award.md)
+### [Conference Presentations](talks.md) 
+### [Awards](awards.md)
 
 ### Teaching experience 
 Outside of research I'm very passionate about the science of learnng and using actuve learning techniques to improve the undergraduate learning experience. I've held numerous roles in UfT academic student support programs including as a Senior Program Assistant at the [Facilitated Study Group Program](https://www.utm.utoronto.ca/asc/facilitated-study-groups-fsgs) and heading the [International Mentorship in Academic and Canadian Culture Program](https://www.utm.utoronto.ca/language-studies/student-resources/imacc-support-international-students). I'm also passionate in my role as a Teaching Assistant, having developed [course content](Bio353_bigData_lab_studentCopy.pdf) and held a position within the [TA training department](https://tatp.utoronto.ca/).  
