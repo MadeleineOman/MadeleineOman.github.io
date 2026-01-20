@@ -5,7 +5,7 @@ Madeleine Oman \
 PhD University of Toronto  \
 madeleine.oman@mail.utoronto.ca\
 @MadeleineOman\
-[CV](Madeleine_Oman_CV_mothership.pdf)\ 
+[CV](Madeleine_Oman_CV_mothership.pdf) \
 [Resume](Oman_Madeleine_resume_amaris.pdf) 
 
 Human geneticist passionate about improving health outcomes, science communication and answering cool questions with big data and machine learning techniques. I work with Dr Rob Ness, check out the [lab website](https://ness.bio/). 
