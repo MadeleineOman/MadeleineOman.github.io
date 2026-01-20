@@ -2,7 +2,7 @@
 <img align="right" src="IMG_0632.JPG" width="300">
 
 Madeleine Oman \
-PhD University of Toronto - Expected fall 2025 \
+PhD University of Toronto  \
 madeleine.oman@mail.utoronto.ca\
 @MadeleineOman\
 [CV](Madeleine_Oman_CV_mothership.pdf) 
